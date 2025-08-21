@@ -21,13 +21,6 @@ Easily add new indicators, fetch real-time data using OpenAI, and explore countr
 
 ---
 
-## 🖥️ Demo
-
-![Demo Screenshot]()  
-*Visualize any global indicator with a single click!*
-
----
-
 ## 📦 Installation
 
 1. **Clone the repository:**
@@ -43,6 +36,15 @@ Easily add new indicators, fetch real-time data using OpenAI, and explore countr
 
 3. **Set your OpenAI API key:**  
    Edit `data_collector.py` and replace `"your-api-key"` with your actual OpenAI API key.
+
+---
+
+## 🖥️ Demo
+
+![Demo Screenshot1](https://github.com/Wajeeha-Portfolio/python-interactive-world-map/blob/main/output/1.png) 
+![Demo Screenshot2](https://github.com/Wajeeha-Portfolio/python-interactive-world-map/blob/main/output/2.png)  
+![Demo Screenshot3](https://github.com/Wajeeha-Portfolio/python-interactive-world-map/blob/main/output/3.png)  
+*Visualize any global indicator with a single click!*
 
 ---
 
@@ -90,7 +92,6 @@ python-interactive-world-map/
 - `GDP-per-capita`
 - `literacy-rate`
 - `inflation-rate`
-- *(Add your own!)*
 
 ---
 
