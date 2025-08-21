@@ -17,7 +17,7 @@ if "last_selected_feature" not in st.session_state:
 # Streamlit dropdown
 selected_feature = st.selectbox("Select an indicator", st.session_state.indicators_list)
 
-st.title("Add indicator to List")
+st.markdown("### Add indicator to List")
 
 if selected_feature != st.session_state.last_selected_feature:
     csv_path = f"{selected_feature}.csv"
