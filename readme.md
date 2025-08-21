@@ -5,6 +5,12 @@ Easily add new indicators, fetch real-time data using OpenAI, and explore countr
 
 ---
 
+## 🏷️ Tags
+
+`#Python` &nbsp; `#Streamlit` &nbsp; `#Plotly` &nbsp; `#OpenAI` &nbsp; `#DataVisualization` &nbsp; `#ChoroplethMap` &nbsp; `#Dashboard` &nbsp; `#GlobalIndicators` &nbsp; `#AI` &nbsp; `#WorldMap`
+
+---
+
 ## 🚀 Features
 
 - **Dynamic Indicator List:**  
