@@ -105,4 +105,3 @@ python-interactive-world-map/
 
 - [Streamlit](https://streamlit.io/)
 - [Plotly](https://plotly.com/python/)
--
